@@ -1,25 +1,46 @@
-# Hello-Micrverse
+# Hello-Microverse
 
-This is my Hello Microverse project.
+> My First Official Microverse Repository 
 
-### Built With
-Html<br />
-CSS
+![screenshot](Screenshot%20(8).png)
 
-### AUTHOR
+Project contains HTML,CSS ETC.
 
-Inyambo Situmbeko
+## Built With
 
-<a href="https://github.com/BlakeYall">Github</a> 
+- HTML
+- CSS
 
-<a href="https://twitter.com/Thee_indigo1">Twitter</a> 
+## Live Demo
 
-<a href="https://www.linkedin.com/in/inyambo-situmbeko-524bb7229/">Linkedin</a>
+[Live Demo Link](http://127.0.0.1:5501/Hey-Micro/index.html)
 
-### Acknowledgments
-Thank you to Microverse
+## Authors
 
-### License
-This is an MIT licensed project
+👤 **Inyambo Situmbeko**
 
-Happy Coding !!!
+
+- GitHub: [BlakeYall](https://github.com/BlakeYall)
+- Twitter: [@Thee_indigo1](https://twitter.com/Thee_indigo1)
+- LinkedIn: [Inyambo Situmbeko](https://www.linkedin.com/in/inyambo-situmbeko-524bb7229/)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/BlakeYall/Hey-Micro/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](https://github.com/BlakeYall/Hey-Micro/blob/main/LICENSE) licensed.
